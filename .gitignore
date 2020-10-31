@@ -22,6 +22,8 @@ build
 # Output
 bin/
 lib/
+Build/
+Binaries/
 
 # QtCreator
 CMakeLists.txt.user
